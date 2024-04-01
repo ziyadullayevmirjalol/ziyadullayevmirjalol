@@ -25,7 +25,6 @@ My name is [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person
   </div> -->
 
  ---
- 
 **Languages and Tools:**
 
 <p align="center">
@@ -42,10 +41,9 @@ My name is [Mirjalol Ziyadullayev](https://mirjalolziyadullayev.github.io/Person
 **Github Stats:**
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=ziyadullayevmirjalol&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadullayevmirjalol&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadullayevmirjalol&theme=dracula&line_height=10">
 </p>
 
  ---
