@@ -1,10 +1,10 @@
 <h4>Hey there!</h4>
 <h5>My name is <a href="https://mirjalolziyadullayev.github.io/Person-s-Blog/">Mirjalol Ziyadullayev</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h5>
 
+<!--
 ---
 
 **Languages and Tools:**
-
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -18,7 +18,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
-
+-->
 ---
 
 **Github Stats:**
