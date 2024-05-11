@@ -1,5 +1,5 @@
-<h4>Hey there!</h4>
-<h5>My name is <a href="https://mirjalolziyadullayev.github.io/Person-s-Blog/">Mirjalol Ziyadullayev</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h5>
+<h3>Hey there!</h4>
+<h4>My name is <a href="https://mirjalolziyadullayev.github.io/Person-s-Blog/">Mirjalol Ziyadullayev</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4>
 
 
 <!--
