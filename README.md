@@ -1,6 +1,6 @@
 <h3>Hey there!</h4>
-<h4>My name is <a href="https://mirjalolziyadullayev.github.io/Person-s-Blog/"> Mirjalol Ziyadullayev</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4>
-
+<!-- <h4>My name is <a href="https://mirjalolziyadullayev.github.io/Person-s-Blog/"> Mirjalol Ziyadullayev</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4> -->
+<h4>My name is <a href="https://ziyadullayev.vercel.app"> James</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4>
 <!--
 ---
 **Languages and Tools:**
