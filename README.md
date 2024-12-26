@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/mirjalolziyadullayev/">
     <img src="https://img.shields.io/badge/-ziyadullayevmirjalol-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
-  <a href="mailto:v.anushka786@gmail.com">
+  <a href="mailto:v.trashedsmile@gmail.com">
     <img src="https://img.shields.io/badge/-ziyadullayevmirjalol-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://twitter.com/z55867">
