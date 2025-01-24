@@ -27,8 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadullayevmirjalol&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=100">
   <img src="https://github-readme-stats.vercel.app/api?username=ziyadullayevmirjalol&count_private=true&show_icons=true&theme=dracula&line_height=40">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadullayevmirjalol&theme=dracula&line_height=100">
-  <br>
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadullayevmirjalol&theme=dracula&line_height=100">
+  <br>-->
 </p>
 
 ---
