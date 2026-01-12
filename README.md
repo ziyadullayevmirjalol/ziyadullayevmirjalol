@@ -1,6 +1,6 @@
-<h3>Hey there!</h4>
+<!-- <h3>Hey there!</h4> -->
 <!-- <h4>My name is <a href="https://mirjalolziyadullayev.github.io/Person-s-Blog/"> Mirjalol Ziyadullayev</a>, I'm a .NET Software Engineer and Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4> -->
-<h4>My name is <a href="https://ziyadullayev.vercel.app"> James</a>, I'm a Full-Stack Engineer and Ex Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4>
+<!-- <h4>My name is <a href="https://ziyadullayev.vercel.app"> James</a>, I'm a Full-Stack Engineer and Ex Golang Back-End Mentor at the Haad LC in Tashkent, Uzbekistan.</h4> -->
 
 
 <!--
@@ -20,20 +20,20 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 -->
----
-**Github Stats:**
+<!-- ---
+**Github Stats:** -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadullayevmirjalol&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=100">
   <img src="https://github-readme-stats.vercel.app/api?username=ziyadullayevmirjalol&count_private=true&show_icons=true&theme=dracula&line_height=40">
   <br>
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadullayevmirjalol&theme=dracula&line_height=100">
   <br>-->
-</p>
+</p> -->
 
----
+<!-- --- -->
 
-<p align="center">
+<!-- <p align="center">
   <i>Find me on the web or chat with me...</i>
   <a href="https://www.linkedin.com/in/mirjalolziyadullayev/">
     <img src="https://img.shields.io/badge/-ziyadullayevmirjalol-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
@@ -44,9 +44,9 @@
   <a href="https://twitter.com/z55867">
     <img src="https://img.shields.io/badge/-@z55867-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
-</p>
+</p> -->
 
-  
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/ziyadullayevmirjalol.svg)](https://user-badge.committers.top/uzbekistan/ziyadullayevmirjalol)
-</br>
-![ViewCount](https://views.whatilearened.today/views/github/mirjalolziyadullayev/mirjalolziyadullayev.svg) 
+<!--   
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/ziyadullayevmirjalol.svg)](https://user-badge.committers.top/uzbekistan/ziyadullayevmirjalol) -->
+<!-- </br> -->
+<!-- ![ViewCount](https://views.whatilearened.today/views/github/mirjalolziyadullayev/mirjalolziyadullayev.svg)  -->
